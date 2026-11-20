@@ -1,10 +1,5 @@
 # Modelo Lineal — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Ana Bianco
-- **Clases prácticas:** Marina Valdora
-
 ## Prácticas
 
 - [Adicionales a la práctica 3](Adicionales_practica_3.pdf)
@@ -38,13 +33,6 @@
 ## Otros materiales
 
 - [Complemento Parte 11](ML_Parte%2011_2013%20Complemento.pdf)
-
-## Bibliografía
-
-- Christensen, Ronald (2011) Plane Answers to Complex Questions: The Theory of Linear Models. Springer Texts in Statistics.
-- Christensen, Ronald (2010) Advanced Linear Modeling: Multivariate, Time Series, and Spatial Data; Nonparametric Regression and Response Surface Maximization. Springer Texts in Statistics.
-- Draper, N. R. y Smith H. (1998). Applied Rgression Analy
-- Neter, J., Kutner, M.H., Nachstsheim, C. and Wasserman, W. (2004) “Applied Linear Statistical Methods”. 4º Edición. Mc. Graw-Hill.
 
 ## Página original
 
